@@ -134,12 +134,12 @@
   "current": {
     "arch": {
       "cua-driver-rs-v0.33.2": {
-        "checked_at": "2026-11-22T14:55:05Z",
+        "checked_at": "2026-11-23T18:45:23Z",
         "status": "fail",
         "tree": "5b3d63841bb61cf07d20f964e545bed5e23dd787"
       },
       "cua-driver-rs-v0.38.0": {
-        "checked_at": "2026-11-22T14:55:07Z",
+        "checked_at": "2026-11-23T18:45:23Z",
         "status": "fail",
         "tree": "aa330aebe172dcc6372a23965fd01ab8c50da03f"
       },
@@ -151,12 +151,12 @@
     },
     "omarchy-edge": {
       "cua-driver-rs-v0.33.2": {
-        "checked_at": "2026-11-22T14:55:05Z",
+        "checked_at": "2026-11-23T18:45:23Z",
         "status": "fail",
         "tree": "5b3d63841bb61cf07d20f964e545bed5e23dd787"
       },
       "cua-driver-rs-v0.38.0": {
-        "checked_at": "2026-11-22T14:55:07Z",
+        "checked_at": "2026-11-23T18:45:23Z",
         "status": "fail",
         "tree": "aa330aebe172dcc6372a23965fd01ab8c50da03f"
       },
@@ -210,7 +210,7 @@
         "arch",
         "omarchy-edge"
       ],
-      "checked_at": "2026-11-22T14:55:07Z",
+      "checked_at": "2026-11-23T18:45:23Z",
       "checks": {
         "build": {
           "status": "fail",
@@ -250,7 +250,7 @@
         ],
         "tree": "aa330aebe172dcc6372a23965fd01ab8c50da03f"
       },
-      "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45035256181",
+      "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45241460225",
       "runtime": {
         "basename": "libstdc++.so.6.0.36",
         "packages": {
@@ -296,7 +296,7 @@
           "libogg": "1.3.6-1",
           "libpng": "1.6.59-1",
           "librsvg": "2:2.63.4-1",
-          "libseccomp": "2.6.0-1",
+          "libseccomp": "2.6.2-1",
           "libstdc++": "16.2.1+r23+gd564253eb6c8-1",
           "libthai": "0.1.30-1",
           "libtool": "2.6.2-5",
@@ -316,7 +316,7 @@
           "libzip": "1.11.4-2",
           "lua": "5.5.1-1",
           "lua54": "5.4.9-1",
-          "mesa": "1:26.3.1-2",
+          "mesa": "1:26.3.1-3",
           "mtdev": "1.1.7-1",
           "muparser": "2.3.5-2",
           "openssl": "4.1.0-1",
@@ -328,7 +328,7 @@
           "spirv-tools": "1:1.4.363.0-1",
           "systemd-libs": "262.2-1",
           "tdb": "1.4.15-2",
-          "tomlplusplus": "3.4.0-3",
+          "tomlplusplus": "3.5.1-1",
           "util-linux-libs": "2.42.4-1",
           "wayland": "1.26.0-1",
           "xcb-util-errors": "1.0.1-2",
@@ -362,7 +362,7 @@
         "arch",
         "omarchy-edge"
       ],
-      "checked_at": "2026-11-22T14:55:05Z",
+      "checked_at": "2026-11-23T18:45:23Z",
       "checks": {
         "build": {
           "status": "fail",
@@ -402,7 +402,7 @@
         ],
         "tree": "5b3d63841bb61cf07d20f964e545bed5e23dd787"
       },
-      "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45035256181",
+      "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45241460225",
       "runtime": {
         "basename": "libstdc++.so.6.0.36",
         "packages": {
@@ -448,7 +448,7 @@
           "libogg": "1.3.6-1",
           "libpng": "1.6.59-1",
           "librsvg": "2:2.63.4-1",
-          "libseccomp": "2.6.0-1",
+          "libseccomp": "2.6.2-1",
           "libstdc++": "16.2.1+r23+gd564253eb6c8-1",
           "libthai": "0.1.30-1",
           "libtool": "2.6.2-5",
@@ -468,7 +468,7 @@
           "libzip": "1.11.4-2",
           "lua": "5.5.1-1",
           "lua54": "5.4.9-1",
-          "mesa": "1:26.3.1-2",
+          "mesa": "1:26.3.1-3",
           "mtdev": "1.1.7-1",
           "muparser": "2.3.5-2",
           "openssl": "4.1.0-1",
@@ -480,7 +480,7 @@
           "spirv-tools": "1:1.4.363.0-1",
           "systemd-libs": "262.2-1",
           "tdb": "1.4.15-2",
-          "tomlplusplus": "3.4.0-3",
+          "tomlplusplus": "3.5.1-1",
           "util-linux-libs": "2.42.4-1",
           "wayland": "1.26.0-1",
           "xcb-util-errors": "1.0.1-2",
@@ -4214,9 +4214,9 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T14:55:41Z",
+  "generated_at": "2026-11-23T18:45:49Z",
   "note": "CI requalification of the Cua Hyprland plugin per Hyprland build. Not native certification and not a package: the reviewed kit/profile process stays the release gate.",
-  "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45035256181",
+  "run_url": "https://github.com/goat-si/goat-cua/actions/runs/45241460225",
   "schema": 1,
   "tracked_packages": [
     "hyprland",
